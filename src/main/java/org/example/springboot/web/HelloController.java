@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class HelloController {
     @GetMapping("/hello")
     public String hello(){
-        return "안녕안녕녕하세요 웹훅 테스트 중...디벨롭., 포트는 8090";
+        return "안녕안녕녕하세요 웹훅 테스트 중...디벨롭., 포트는 8090 끙...";
     }
 }
