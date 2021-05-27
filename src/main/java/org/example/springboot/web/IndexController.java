@@ -2,7 +2,6 @@ package org.example.springboot.web;
 
 import lombok.RequiredArgsConstructor;
 import org.example.springboot.service.posts.PostsService;
-import org.example.springboot.web.dto.PostsListResponseDto;
 import org.example.springboot.web.dto.PostsResponseDto;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

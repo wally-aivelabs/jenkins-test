@@ -1,6 +1,5 @@
 package org.example.springboot.web;
 
-import lombok.Getter;
 import lombok.RequiredArgsConstructor;
 import org.example.springboot.service.posts.PostsService;
 import org.example.springboot.web.dto.PostsResponseDto;
